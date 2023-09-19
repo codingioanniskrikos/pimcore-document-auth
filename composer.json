@@ -1,5 +1,5 @@
 {
-    "name": "cors/document-auth",
+    "name": "codingioanniskrikos/pimcore-document-auth",
     "type": "pimcore-bundle",
     "description": "CORS - Document Auth",
     "keywords": [
